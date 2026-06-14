@@ -2,21 +2,34 @@
 # 支持设置UA：https://xxx.com/subscribe.m3u UA="xxx"
 # This is a list of subscription sources, with one subscription address per line
 # Supports setting UA: https://xxx.com/subscribe.m3u UA="xxx"
-https://iptv-org.github.io/iptv/countries/cn.m3u
-https://t.freetv.fun/m3u/playlist_all.m3u
 
-# https://iptv-org.github.io/iptv/countries/au.m3u
-# https://iptv-org.github.io/iptv/countries/ca.m3u
-# https://iptv-org.github.io/iptv/countries/fr.m3u
-# https://iptv-org.github.io/iptv/countries/de.m3u
-# https://iptv-org.github.io/iptv/countries/hk.m3u
-# https://iptv-org.github.io/iptv/countries/it.m3u
-# https://iptv-org.github.io/iptv/countries/jp.m3u
-# https://iptv-org.github.io/iptv/countries/nz.m3u
-# https://iptv-org.github.io/iptv/countries/ru.m3u
-# https://iptv-org.github.io/iptv/countries/kr.m3u
-# https://iptv-org.github.io/iptv/countries/uk.m3u
-# https://iptv-org.github.io/iptv/countries/us.m3u
+https://iptv-org.github.io/iptv/countries/cn.m3u
+https://t.freetv.fun/m3u/china.m3u
+
+https://iptv-org.github.io/iptv/countries/au.m3u
+https://t.freetv.fun/m3u/australia.m3u
+https://iptv-org.github.io/iptv/countries/ca.m3u
+https://t.freetv.fun/m3u/canada.m3u
+https://iptv-org.github.io/iptv/countries/fr.m3u
+https://t.freetv.fun/m3u/france.m3u
+https://iptv-org.github.io/iptv/countries/de.m3u
+https://t.freetv.fun/m3u/germany.m3u
+https://iptv-org.github.io/iptv/countries/hk.m3u
+https://t.freetv.fun/m3u/hong_kong.m3u
+https://iptv-org.github.io/iptv/countries/it.m3u
+https://t.freetv.fun/m3u/italy.m3u
+https://iptv-org.github.io/iptv/countries/jp.m3u
+https://t.freetv.fun/m3u/japan.m3u
+https://iptv-org.github.io/iptv/countries/nz.m3u
+https://t.freetv.fun/m3u/new_zealand.m3u
+https://iptv-org.github.io/iptv/countries/ru.m3u
+https://t.freetv.fun/m3u/russia.m3u
+https://iptv-org.github.io/iptv/countries/kr.m3u
+https://t.freetv.fun/m3u/south_korea.m3u
+https://iptv-org.github.io/iptv/countries/uk.m3u
+https://t.freetv.fun/m3u/united_kingdom.m3u
+https://iptv-org.github.io/iptv/countries/us.m3u
+https://t.freetv.fun/m3u/united_states.m3u
 
 [WHITELIST]
 # 以下是订阅源的白名单，白名单内的订阅源获取的接口将不会参与测速，始终保留至结果最前。
